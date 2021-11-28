@@ -24,6 +24,7 @@ header {
     background-color: #111010DD;
     padding: 2vh 1vh 2vh 1vh;
     color: white;
+    box-shadow: 3px 3px 10px 2px #313638;
 }
 .container:hover h2 {
     font-size: 6vh;
@@ -43,6 +44,10 @@ header {
 .content{
     margin-left: 25px;
     font-size: 1.45em;
+}
+#noBoxShadow{
+
+    
 }
 /**************/
 
